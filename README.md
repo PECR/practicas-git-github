@@ -1,9 +1,3 @@
-## Pasos de Intalación
+## MOTIVO
 
-## Por omitir
-
-Debemos omitir estos archivos
-
-.log
-.locuras
-.nanai
+Este repositorio sirve para agregar cosas
