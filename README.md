@@ -5,3 +5,5 @@
 Debemos omitir estos archivos
 
 .log
+.locuras
+.nanai
