@@ -3,3 +3,4 @@
 * Robin
 * Batman
 * Iron Man
+* Superman
