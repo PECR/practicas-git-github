@@ -1,4 +1,4 @@
-## MOTIVO
+## Objetivos del repositorio
 
 Este repositorio sirve para agregar cosas
 
