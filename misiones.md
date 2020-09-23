@@ -1,8 +1,8 @@
-* Ocupar a los super heroes
-* Buscar nuevos miembros para la liga
-* Nueva misión
-* Otra misión
-* Conflicto en master
-* Conflicto en conflicto
-* Investigar al enemigo
-* Entrenar a viuda negra
+- Ocupar a los super heroes
+- Buscar nuevos miembros para la liga
+- Nueva misión
+- Otra misión
+- Conflicto en master
+- Conflicto en conflicto
+- Investigar al enemigo
+- Entrenar a viuda negra
