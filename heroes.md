@@ -5,3 +5,4 @@
 * Iron Man
 * Superman
 * Capitan America
+* Viuda Negra
