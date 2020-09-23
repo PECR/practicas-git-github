@@ -5,3 +5,4 @@
 * Conflicto en master
 * Conflicto en conflicto
 * Investigar al enemigo
+* Entrenar a viuda negra
